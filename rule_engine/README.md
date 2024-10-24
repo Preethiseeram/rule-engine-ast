@@ -182,5 +182,5 @@ Feel free to fork this project, submit issues, and contribute to improving the r
 
 For any questions or issues, contact:
 
-- **Your Name**: preethi.bttr@example.com
+- **Your Name**: preethi.bttr@gmail.com
 - **GitHub**: [Preethiseeram](https://github.com/Preethiseeram)
